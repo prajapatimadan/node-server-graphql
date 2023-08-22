@@ -1,0 +1,15 @@
+[
+    {
+       "id": "col-101",
+       "name": "AKTU",
+       "location": "Uttar Pradesh",
+       "rating": 4.5
+    },
+    
+    {
+       "id": "col-102",
+       "name": "DU",
+       "location": "Delhi",
+       "rating": 5
+    }
+ ]

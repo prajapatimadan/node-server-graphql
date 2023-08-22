@@ -1,0 +1,42 @@
+[
+  {
+    "id": "S1001",
+    "firstName": "Test1",
+    "lastName": "Demo",
+    "email": "test1.demo@testemail.com",
+    "password": "pass123",
+    "collegeId": "col-102"
+  },
+  {
+    "id": "S1002",
+    "email": "test2.demo@testemail.com",
+    "firstName": "Test2",
+    "lastName": "Demo",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "S1003",
+    "email": "test3.demo@testemail.com",
+    "firstName": "Test3",
+    "lastName": "Demo",
+    "password": "pass123",
+    "collegeId": "col-101"
+  },
+  {
+    "id": "5",
+    "firstName": "Madan",
+    "lastName": "Prajapati",
+    "email": "madan_prajapati@testemail.com",
+    "password": "testpass",
+    "collegeId": "col-102"
+  },
+  {
+    "id": "4",
+    "firstName": "Daksh",
+    "lastName": "Prajapati",
+    "email": "jatin_prajapati@testemail.com",
+    "password": "testpass",
+    "collegeId": "col-102"
+  }
+]
